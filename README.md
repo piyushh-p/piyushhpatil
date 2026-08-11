@@ -1,4 +1,4 @@
-# Hi, I'm Piyush Patil (0x0Virtex)
+# Hi, I'm Piyush Patil
 
 MS Cybersecurity candidate at RIT. I research security problems, build tools around them,
 and document everything publicly.
